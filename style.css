@@ -1,0 +1,20 @@
+/* Left Sidebar */
+.sidebar {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #22543D;
+    overflow-x: hidden;
+    padding-top: 16px;
+  }
+  /* Sidebar Links */
+  .sidebar a {
+    padding: 10px 8px 10px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    display: block;
+  }
