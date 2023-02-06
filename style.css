@@ -66,3 +66,10 @@ p {
     color: white;
     display: block;
   }
+
+  /* Main content */
+.main-title {
+    margin-left: 200px;
+    padding: 20px;
+    background-color: #E8E8E8;
+  }
