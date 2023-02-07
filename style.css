@@ -144,3 +144,33 @@ p {
   background-color: #FFB900;
   color: #333;
 }
+
+.spacing {
+  margin-left: 200px;
+  padding: 20px;
+}
+
+.images {
+  margin-left: 200px;
+  padding: 20px;
+}
+
+
+.portrait-shape {
+  width: 200px;
+  height: 133px;
+  /* 200 / 3 * 2 = 133.33, rounded down to 133 */
+  border-radius: 5px;
+  text-align: center;
+  background-color: #E8E8E8;
+}
+
+.landscape-shape {
+  width: 400px;
+  height: 225px;
+  /* 400 / 16 * 9 = 225 */
+  border-radius: 5px;
+  text-align: center;
+  margin-top: 20px;
+  background-color: #E8E8E8;
+}
