@@ -287,3 +287,25 @@ p {
 .secondary-button:hover {
   background-color: #8BC34A;
 }
+
+/* Breadcrumbs */
+.bread {
+  margin-left: 200px;
+  padding: 20px;
+  width: 50%;
+}
+
+.breadcrumbs {
+  background-color: #E8E8E8;
+  padding: 10px;
+  text-align: left;
+}
+
+.breadcrumbs a {
+  color: #333;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: none;
+  margin-right: 10px;
+}
