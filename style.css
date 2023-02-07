@@ -241,3 +241,11 @@ p {
   display: block;
   list-style: none;
 }
+
+/* Hamburger */
+
+.hamburger {
+  margin-left: 200px;
+  padding: 20px;
+  width: 80%;
+}
