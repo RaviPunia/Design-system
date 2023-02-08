@@ -586,27 +586,27 @@ ul {
     width: 80%;
   }
   .list {
-    margin-left: 200px;
+    margin-left: 20px;
   }
-}
-
-li {
-  color: #333;
-  font-family: "Open Sans", sans-serif;
-  font-size: 14px;
-  font-weight: 400;
-  margin: 10px;
-  padding: 10px;
-}
-
-ol {
-  list-style-type: decimal;
-  margin: 10px;
-  padding: 10px;
-}
-
-ul {
-  list-style-type: square;
-  margin: 10px;
-  padding: 10px;
+  li {
+    color: #333;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  ol {
+    list-style-type: decimal;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style-type: square;
+    margin: 10px;
+    padding: 10px;
+  }
+ 
 }
