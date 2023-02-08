@@ -608,5 +608,10 @@ ul {
     margin: 10px;
     padding: 10px;
   }
- 
+  .hero {
+    margin-left: 0;
+  }
+  .desktop-banner {
+    display: none;
+  }
 }
