@@ -532,4 +532,34 @@ ul {
     text-align: left;
     margin-top: 10px;
   }
+  .navigation {
+    margin-left: 0;
+    width: 100%;
+    padding: 10px;
+  }
+  
+  .navbar {
+    padding: 5px;
+  }
+  
+  .nav-list {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .nav-item {
+    margin: 10px 0;
+    width: 100%;
+  }
+  
+  .sub-menu {
+    width: 100%;
+    top: auto;
+    right: 0;
+    left: auto;
+    bottom: 0;
+  }
+  .hamburger {
+    margin-left: 0;
+  }
 }
