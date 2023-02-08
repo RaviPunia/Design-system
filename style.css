@@ -520,17 +520,10 @@ ul {
     padding: 10px;
   }
   .portrait-shape {
-    width: 100%;
-    height: auto;
-    border-radius: 5px;
-    text-align: left;
+    display: none;
   }
   .landscape-shape {
-    width: 100%;
-    height: auto;
-    border-radius: 0;
-    text-align: left;
-    margin-top: 10px;
+    display: none;
   }
   .navigation {
     margin-left: 0;
