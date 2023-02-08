@@ -467,3 +467,21 @@ ul {
   margin-top: 10px;
   text-align: center;
 }
+
+/* Media Queries for mobile screen */
+
+@media (max-width: 500px) {
+  .sidebar {
+    display: none;
+  }
+
+  .main-title {
+    margin-left: 0;
+    padding: 10px;
+
+  }
+
+  h1 {
+    text-align: left;
+  }
+}
