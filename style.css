@@ -473,3 +473,37 @@ ul {
   text-align: center;
 }
 
+/* Media Queries for mobile screen */
+
+@media (max-width: 500px) {
+  .sidebar {
+    display: none;
+  }
+
+  .main-title {
+    margin-left: 0;
+    padding: 10px;
+
+  }
+
+  h1 {
+    text-align: left;
+  }
+
+  .main-title {
+
+    padding: 10px;
+    align-items: center;
+    width: 100%;
+  }
+
+  .container {
+    margin-left: 0;
+    align-items: center;
+  }
+
+  .box {
+    width: 100%;
+    margin: 10px 0;
+  }
+}
