@@ -145,11 +145,14 @@ p {
   color: #333;
 }
 
+/* Spacing */
+
 .spacing {
   margin-left: 200px;
   padding: 20px;
 }
 
+/* Images */
 .images {
   margin-left: 200px;
   padding: 20px;
@@ -174,6 +177,8 @@ p {
   margin-top: 20px;
   background-color: #E8E8E8;
 }
+
+/* Navigation */
 
 .navigation {
   margin-left: 200px;
@@ -468,20 +473,3 @@ ul {
   text-align: center;
 }
 
-/* Media Queries for mobile screen */
-
-@media (max-width: 500px) {
-  .sidebar {
-    display: none;
-  }
-
-  .main-title {
-    margin-left: 0;
-    padding: 10px;
-
-  }
-
-  h1 {
-    text-align: left;
-  }
-}
