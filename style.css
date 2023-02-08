@@ -614,4 +614,17 @@ ul {
   .desktop-banner {
     display: none;
   }
+  .cards {
+    margin-left: 0px;
+    width: 90%;
+    height: auto;
+  }
+
+  .card-title {
+    font-size: 20px;
+  }
+
+  .card-text {
+    font-size: 12px;
+  }
 }
