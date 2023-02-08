@@ -391,3 +391,36 @@ ul {
   margin: 10px;
   padding: 10px;
 }
+
+/* Banner*/
+
+.hero {
+  margin-left: 200px;
+  padding: 20px;
+
+}
+
+.desktop-banner {
+  height: 608px;
+  width: 1080px;
+  background-color: #E8E8E8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 36px;
+  color: #fff;
+  text-align: center;
+}
+
+.mobile-banner {
+  height: 300px;
+  width: 360px;
+  background-color: #E8E8E8;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  margin-top: 20px;
+}
