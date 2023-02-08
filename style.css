@@ -496,6 +496,10 @@ ul {
     align-items: center;
     width: 100%;
   }
+  .typography {
+    margin-left: 20px;
+    padding: 10px;
+  }
 
   .container {
     margin-left: 0;
@@ -505,5 +509,27 @@ ul {
   .box {
     width: 100%;
     margin: 10px 0;
+  }
+  .spacing {
+    margin-left: 20px;
+    padding: 10px;
+  }
+  
+  .images {
+    margin-left: 20px;
+    padding: 10px;
+  }
+  .portrait-shape {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    text-align: left;
+  }
+  .landscape-shape {
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+    text-align: left;
+    margin-top: 10px;
   }
 }
