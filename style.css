@@ -562,4 +562,23 @@ ul {
   .hamburger {
     margin-left: 0;
   }
+  .buttons {
+    margin-left: 0;
+  }
+
+  .primary-button,
+  .secondary-button {
+    font-size: 14px;
+    padding: 5px 10px;
+  }
+
+  .bread {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  .breadcrumbs a {
+    font-size: 12px;
+    margin-right: 5px;
+  }
 }
