@@ -44,8 +44,25 @@ p {
   h6 {
     font-size: 16px;
   }
-  
+  /* Button styling */
 
+  .snippets {
+  background-color: #689F38;
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 400;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  padding: 10px 20px;
+  margin-top: 25px;
+  }
+  
+  .snippets:hover {
+    background-color: #8BC34A;
+  }
+  
 /* Left Sidebar */
 .sidebar {
     height: 100%;
@@ -159,7 +176,7 @@ p {
 }
 
 
-.portrait-shape {
+.small-shape {
   width: 200px;
   height: 133px;
   /* 200 / 3 * 2 = 133.33, rounded down to 133 */
