@@ -45,7 +45,9 @@ p {
     font-size: 16px;
   }
   /* Button styling */
-
+.button {
+  margin-top: 40px;
+}
   .snippets {
   background-color: #689F38;
   color: #fff;
@@ -57,6 +59,7 @@ p {
   text-align: center;
   padding: 10px 20px;
   margin-top: 25px;
+  text-decoration: none;
   }
   
   .snippets:hover {
